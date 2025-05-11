@@ -12,12 +12,8 @@ A donation reward system designed for long-term servers with seasonal resets. Pl
 ### PVE Plugin
 A fully completed PvE system featuring wave-based spawning, countdowns, region selections via wands, and spectating mechanics. Built to support dynamic, repeatable PvE events that are easy for server staff to configure and manage.
 
-### AdminToolsPlus (ATP) — *Work in Progress*
-A modular, admin-focused toolkit designed to simplify day-to-day server management. Currently in its early stages, the plugin is functional and available for download, with active development planned for expanded functionality and deeper customization.  
-**Spigot Page:** [AdminToolsPlus](https://www.spigotmc.org/resources/admintoolsplus.124811/)
-
-### AuraEnhancer — *Work in Progress*
-An advanced aura system that lets players equip animated, particle-driven auras which apply status effects to themselves and nearby players. Configurable through YAML, it supports spiral, wing, and sphere animations for a highly immersive and dramatic gameplay presence. Designed for boss fights, prestige rewards, and cosmetic enhancements.
+### ShadowAscend
+A Solo Leveling-inspired RPG plugin that introduces stat-based progression, daily quests, and shadow minion mechanics. Players level up, allocate stats, and extract shadows from defeated mobs to build personal armies. Future updates will include dungeons, faction alignment, and an ascension system—creating a deep, lore-driven experience in Minecraft.
 
 ## Skills
 
