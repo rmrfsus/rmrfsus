@@ -12,6 +12,41 @@ I focus on creating gameplay-enhancing and utility-based plugins using Java and 
 
 ## Projects
 
+### AuraForge
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/API-PaperMC%201.20+-yellow?style=flat-square" alt="API">
+  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square" alt="Language">
+</div>
+
+AuraForge is a powerful particle effect plugin that allows players and server administrators to create stunning visual auras and animations. It provides a comprehensive system for designing, customizing, and triggering particle effects to enhance the visual experience on Minecraft servers.
+
+#### Key Features
+
+- **✨ Custom Particle Auras** - Create personalized auras with customizable particles, patterns, and animations
+- **🎭 Animation System** - Choose from multiple animation types including waves, spirals, pulses, orbits, and more
+- **🔄 Trigger System** - Activate particle effects based on player actions, environmental conditions, and custom events
+- **💾 Template System** - Save and load aura templates for easy reuse and sharing
+- **🧩 Particle Combos** - Combine multiple particle effects for complex visual displays
+- **🛡️ Security Controls** - Comprehensive permission system and performance safeguards
+- **🌐 Metrics Integration** - Anonymous usage statistics to help improve the plugin (optional)
+
+#### Current Progress
+
+The plugin is currently in active development with the following features implemented:
+- ✅ Core aura creation and management system
+- ✅ Multiple animation patterns and types
+- ✅ Event-based trigger system
+- ✅ Template saving and loading
+- ✅ Performance optimization features
+- ✅ Localization support
+
+#### Coming Soon
+
+- ⏳ More animation patterns and particle combinations
+- ⏳ Advanced trigger conditions
+
 ### AdminToolsPlus
 
 <div align="center">
