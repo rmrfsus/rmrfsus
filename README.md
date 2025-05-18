@@ -1,19 +1,52 @@
 # Damien | Minecraft Plugin Developer
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.20+-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.20+">
+  <img src="https://img.shields.io/badge/Kotlin-Primary-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Java-Secondary-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</div>
+
 I'm a 23-year-old blue-collar worker with a strong passion for IT and software development. Although I don't have formal training in the field, I've pursued it independently, developing practical skills through real-world projects—especially within the Minecraft plugin development scene.
 
 I focus on creating gameplay-enhancing and utility-based plugins using Java and Kotlin, with an emphasis on clean code, server performance, and immersive player experiences.
 
 ## Projects
 
-### Reclaim
-A donation reward system designed for long-term servers with seasonal resets. Players can store donator items in a GUI-based vault that persists between seasons, allowing them to reclaim their rewards when a new season begins. Enhances donor retention and simplifies reward management.
+### AdminToolsPlus
 
-### PVE Plugin
-A fully completed PvE system featuring wave-based spawning, countdowns, region selections via wands, and spectating mechanics. Built to support dynamic, repeatable PvE events that are easy for server staff to configure and manage.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/API-PaperMC%201.20+-yellow?style=flat-square" alt="API">
+  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square" alt="Language">
+</div>
 
-### ShadowAscend
-A Solo Leveling-inspired RPG plugin that introduces stat-based progression, daily quests, and shadow minion mechanics. Players level up, allocate stats, and extract shadows from defeated mobs to build personal armies. Future updates will include dungeons, faction alignment, and an ascension system—creating a deep, lore-driven experience in Minecraft.
+AdminToolsPlus is a comprehensive server administration plugin designed to simplify management tasks through an intuitive GUI system. It provides server administrators with powerful tools accessible through a clean, organized interface.
+
+#### Key Features
+
+- **🛠️ Complete Admin GUI System** - Manage your server through intuitive menus
+- **👮 Player Management** - Kick, ban, mute, and freeze players with customizable reasons and durations
+- **🧭 Teleportation Tools** - Player teleportation, warps, and random teleport with safety checks
+- **📦 Inventory Management** - View and edit player inventories, enderchests, and give items
+- **🔧 Admin Utilities** - Speed controls, flight toggles, workbench access, and healing tools
+- **📋 Detailed Permissions** - Granular permission system for team management
+
+#### Current Progress
+
+The plugin is currently in active development with the following features implemented:
+- ✅ Complete GUI menu system with intuitive navigation
+- ✅ Player management tools (kick, ban, mute, freeze)
+- ✅ Teleportation system with teleport history
+- ✅ Inventory viewing and management tools
+- ✅ Basic admin utilities (speed controls, workbench access)
+
+#### Coming Soon
+
+- ⏳ Server controls (time, weather, maintenance mode)
+- ⏳ Region & world management
+- ⏳ Advanced logging and player history
+- ⏳ Custom aesthetics and UX improvements
+- ⏳ Integration with popular plugins (Vault, LuckPerms)
 
 ## Skills
 
@@ -29,4 +62,7 @@ I aim to build tools and plugins that solve real problems for server owners and 
 
 ## Contact
 
-- **Discord:** uisimhada_
+<div align="center">
+    <img src="https://img.shields.io/badge/Discord-uisimhada__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div> 
