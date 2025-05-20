@@ -89,7 +89,7 @@ The plugin is currently in active development with the following features implem
 - **Minecraft APIs:** Spigot, Bukkit, Paper
 - **Plugin Features:** Persistent data storage, GUI systems, custom events, animated effects, YAML configuration
 - **Other Experience:** Discord bot development using Node.js and Python
-- **Tools:** IntelliJ IDEA
+- **Tools:** IntelliJ IDEA, Cursor
 
 ## Philosophy
 
